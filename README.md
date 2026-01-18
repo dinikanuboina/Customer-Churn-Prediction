@@ -105,6 +105,7 @@ Customer-Churn-Prediction/
 
 **Kanuboina Dinesh**
 Machine Learning Enthusiast
+Apsiring data analyst| Associate Data Scientist
 
 ---
 
